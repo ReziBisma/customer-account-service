@@ -1,0 +1,5 @@
+flask
+nose
+coverage
+flake8
+pylint
