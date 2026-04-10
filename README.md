@@ -1,19 +1,15 @@
-# Customer Account Service
+# DevOps Capstone
 
-Microservice untuk mengelola akun pelanggan menggunakan REST API, Docker, dan Kubernetes.
+This repository contains the DevOps Capstone Project for the course.
 
-## Features
-- Create customer
-- Read customer data
-- Update customer
-- Delete customer
+![Build Status](https://github.com/USERNAME/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
 
-## Tech Stack
-- Python (Flask)
+## Project Overview
+This project demonstrates a microservice deployed using CI/CD pipelines, Docker, and Kubernetes.
+
+## Technologies
+- Python
+- Flask
 - Docker
 - Kubernetes
-- GitHub Actions (CI/CD)
-
-## Build Status
-
-![Build Status](https://github.com/ReziBisma/customer-account-service/actions/workflows/ci.yml/badge.svg)
+- GitHub Actions
